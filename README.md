@@ -1,7 +1,7 @@
 # awesome yt-dlp
 @readwith - [X](https://x.com/readwithai) - [blog](https://readwithai.substack.com) - [machine-aided reading](https://www.reddit.com/r/machineAidedReading/)
 
-Awesome resources about the youtube video downloader yt-dlp.
+Awesome resources about the youtube video downloader [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 
 `yt-dlp` used to be called `youtube-dl` but got a rebrand
 
